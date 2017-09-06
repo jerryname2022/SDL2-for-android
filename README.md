@@ -13,3 +13,8 @@
 --⑵ Android.mk 用来编译android-project工程的mk文件。可以编译出(main)的动态库。</p>
 --⑴ Android.mk 用来编译src下自己写的代码的编译文件。</p>
 
+## 移植步骤
+1.在android-project/jni 下新建SDL文件。</p>
+2.将SDL2-2.0.5目录下的src和include目录拷贝到android-project/jni/SDL目录下。</p>
+3.将SDL2-2.0.5目录下的Android.mk文件拷贝到android-project/jni/SDL目录下。</p>
+4.编译。
