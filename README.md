@@ -1,9 +1,9 @@
 # SDL2-for-android
 # 工程目录：
-android-project</p>
+android-project</br>
               ./jni</p>
-                  ./src/Android.mk       --⑴</p>
-              ./Android.mk               --⑵</p>
-              ./Application.mk</p>
+                  ./src/Android.mk       --⑴</br>
+              ./Android.mk               --⑵</br>
+              ./Application.mk</br>
 
 
