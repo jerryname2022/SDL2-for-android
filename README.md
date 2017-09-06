@@ -18,3 +18,7 @@
 2.将SDL2-2.0.5目录下的src和include目录拷贝到android-project/jni/SDL目录下。</p>
 3.将SDL2-2.0.5目录下的Android.mk文件拷贝到android-project/jni/SDL目录下。</p>
 4.编译。
+
+### 相关链接
+源码：http://www.libsdl.org/ </p>
+博客：忘了
